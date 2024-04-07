@@ -1,0 +1,16 @@
+{
+  "name": "bvcsportsclub",
+  "version": "1.0.0",
+  "description": "\"Calculation of the registration fee for the staff to the event\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Felipe Mora\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
